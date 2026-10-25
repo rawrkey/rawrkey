@@ -8,10 +8,10 @@
 
 <br/>
 
-<a href="https://x.com/your-handle"><img src="https://img.shields.io/badge/X-07050C?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://www.linkedin.com/in/kalpit-tailor"><img src="https://img.shields.io/badge/LinkedIn-07050C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/rawrkey"><img src="https://img.shields.io/badge/GitHub-A66CCD?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://heyyappa.com"><img src="https://img.shields.io/badge/Yappa-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa" /></a>
-<a href="https://junohauz.xyz"><img src="https://img.shields.io/badge/Junohauz-07050C?style=for-the-badge&logoColor=white" alt="Junohauz" /></a>
+<a href="mailto:kalpit2007.tailor@gmail.com"><img src="https://img.shields.io/badge/Email-C59BFF?style=for-the-badge&logoColor=07050C" alt="Email" /></a>
+<a href="https://github.com/rawrkey/LeetCode"><img src="https://img.shields.io/badge/LeetCode-07050C?style=for-the-badge&logoColor=white" alt="LeetCode" /></a>
 
 <br/><br/>
 
@@ -24,30 +24,30 @@
 ## 01. whoami
 
 ```typescript
-const Kalpit Tailor = {
+const kalpit = {
   github: "@rawrkey",
-  role: "✏️ your role",
-  aka: "Mewtwo, Tech Angel, Famous Baddie, Emily",
-  currently: "✏️ your currently",
+  role: "B.Tech Electronics & Computer Engineering student, AI Developer Intern",
+  aka: "Kalpit Tailor",
+  currently: "Building the jobs platform at Techvruk, Bengaluru",
   interests: [
-    "Consumer Technology",
-    "AI & Creative Technology",
-    "3D Wearable Fashion",
-    "Onchain Products",
-    "Neurotechnology"
+    "Cybersecurity & Ethical Hacking",
+    "AI & LLM-Integrated Systems",
+    "OSINT & Network Security",
+    "Software Development",
+    "Bug Bounty"
   ],
-  languages: ["TypeScript", "JavaScript", "Move", "ATC Radio English"],
-  philosophy: "Make useful things, then make them fun and fundable."
+  languages: ["C", "Java", "C++", "Python", "HTML", "CSS", "JavaScript"],
+  philosophy: "Building, securing, and experimenting with technology."
 };
 ```
 
-<em>✏️ A sentence about you and what you do.</em>
+<em>Second-year Electronics and Computer Engineering student at KJ Somaiya College of Engineering, Mumbai, with a robotics background and a CEH v13 certification.</em>
 
-<em>✏️ A sentence about you and what you do.</em>
+<em>I build security tooling and AI-integrated systems, from passive recon and LAN threat mapping to an autonomous trading agent that argues with itself.</em>
 
-<em>✏️ A sentence about you and what you do.</em>
+<em>Right now I'm shipping real features as an AI Developer Intern, and working toward software engineering and security roles.</em>
 
-> nobody owns a fox.
+> building, securing, and experimenting with technology.
 
 ---
 
@@ -55,21 +55,22 @@ const Kalpit Tailor = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css,bash,git,github,vscode&perline=8&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,git&perline=8&theme=dark" alt="Development tools" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/TypeScript-07050C?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/JavaScript-A66CCD?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Move-C59BFF?style=flat-square&logoColor=07050C" alt="Move" />
-<img src="https://img.shields.io/badge/HTML-07050C?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-A66CCD?style=flat-square&logo=css&logoColor=white" alt="CSS" />
-<img src="https://img.shields.io/badge/Shell-C59BFF?style=flat-square&logo=gnubash&logoColor=07050C" alt="Shell" />
-<img src="https://img.shields.io/badge/SQL-07050C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/C-07050C?style=flat-square&logo=c&logoColor=white" alt="C" />
+<img src="https://img.shields.io/badge/C++-A66CCD?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/Java-C59BFF?style=flat-square&logo=openjdk&logoColor=07050C" alt="Java" />
+<img src="https://img.shields.io/badge/Python-07050C?style=flat-square&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/HTML-A66CCD?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
+<img src="https://img.shields.io/badge/CSS-C59BFF?style=flat-square&logo=css&logoColor=07050C" alt="CSS" />
+<img src="https://img.shields.io/badge/JavaScript-07050C?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Kali_Linux-A66CCD?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 
 <br/><br/>
 
-<em>✏️ The tools you reach for, in a sentence.</em>
+<em>C, Java, C++, Python, HTML, CSS, and JavaScript, with Python for security tooling and Kali Linux for lab testing.</em>
 
 </div>
 
@@ -81,30 +82,30 @@ const Kalpit Tailor = {
 <tr>
 <td width="50%" valign="top">
 
-### claude-cursor-tips-for-creatives
+### killjoy
 
-<em>✏️ Say this in your own words.</em>
+<em>An autonomous AI options trading agent that trades against itself, built for the Alpaca AI Hackathon.</em>
 
-No terminal required.
+A Kill Agent attacks every trade proposal, and a risk engine holds the final veto.
 
-<em>✏️ Say this in your own words.</em>
+<em>113 automated tests, paper trading only.</em>
 
-<a href="https://github.com/rawrkey?tab=repositories">
+<a href="https://github.com/rawrkey/killjoy">
 <img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### token-slayer
+### Lanspyx
 
-<em>✏️ Say this in your own words.</em>
+<em>A LAN threat mapper and analysis tool built for Kali Linux and other pentesting environments.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Active ARP scans, passive sniffing, OS fingerprinting, rogue-device and ARP spoof detection.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Exports JSON, TXT, and PNG network maps, with Discord alerts.</em>
 
-<a href="https://github.com/rawrkey?tab=repositories">
+<a href="https://github.com/rawrkey/Lanspyx">
 <img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -113,30 +114,30 @@ No terminal required.
 <tr>
 <td width="50%" valign="top">
 
-### qonnek
+### passrecon
 
-<em>✏️ Say this in your own words.</em>
+<em>A passive recon CLI for ethical hacking and OSINT, my very first project.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>WHOIS, DNS enumeration, IP geolocation, ASN lookup, and Tor exit-node checks.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Finds subdomains through Certificate Transparency logs without ever touching the target.</em>
 
-<a href="https://github.com/rawrkey?tab=repositories">
+<a href="https://github.com/rawrkey/passrecon">
 <img src="https://img.shields.io/badge/EXPLORE_REPO-A66CCD?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </td>
 <td width="50%" valign="top">
 
-### STTH-buildathon
+### LeetCode
 
-<em>✏️ What you built and why it matters.</em>
+<em>My running collection of LeetCode solutions, written in C.</em>
 
-<em>✏️ What you built and why it matters.</em>
+<em>Interview-style data structures and algorithms practice.</em>
 
-<em>✏️ What you built and why it matters.</em>
+<em>Auto-synced to GitHub with LeetHub.</em>
 
-<a href="https://github.com/rawrkey?tab=repositories">
+<a href="https://github.com/rawrkey/LeetCode">
 <img src="https://img.shields.io/badge/EXPLORE_REPO-07050C?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
@@ -144,43 +145,24 @@ No terminal required.
 </tr>
 </table>
 
-<details>
-<summary><b><em>✏️ What you built and why it matters.</em></b></summary>
-
-<br/>
-
-**willow**
-
-<em>✏️ What you built and why it matters.</em>
-
-[Explore repository](https://github.com/rawrkey?tab=repositories)
-
-**Wal-site**
-
-<em>✏️ What you built and why it matters.</em>
-
-[Explore repository](https://github.com/rawrkey?tab=repositories)
-
-</details>
-
 ---
 
 ## 04. currently building
 
 <div align="center">
 
-### YAPPA
+### TECHVRUK JOBS PLATFORM
 
-<em>✏️ Say this in your own words.</em>
+<em>Integrating live crawler data, building responsive job listing and details pages, and shipping secure external application flows.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Plus the unglamorous reliability work: API error handling, retry states, CORS, health checks, and staging docs.</em>
 
 <img src="https://img.shields.io/badge/STATUS-BUILDING-A66CCD?style=for-the-badge&labelColor=07050C" alt="Building" />
 
 <br/><br/>
 
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/MEET_YAPPA-C59BFF?style=for-the-badge&logoColor=07050C" alt="Yappa website" />
+<a href="https://killjoy-three.vercel.app/">
+<img src="https://img.shields.io/badge/TRY_KILLJOY_LIVE-C59BFF?style=for-the-badge&logoColor=07050C" alt="Killjoy live demo" />
 </a>
 
 </div>
@@ -193,7 +175,7 @@ No terminal required.
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rawrkey&show_icons=true&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F&icon_color=743C91&ring_color=A66CCD" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rawrkey&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="Mewtu GitHub statistics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rawrkey&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="rawrkey GitHub statistics" />
 </picture>
 
 <picture>
@@ -203,7 +185,7 @@ No terminal required.
 
 <br/><br/>
 
-<h3>MEWTU CONTRIBUTION TRAIL</h3>
+<h3>CONTRIBUTION TRAIL</h3>
 
 <!---->
 
@@ -220,28 +202,28 @@ No terminal required.
 
 ## 06. beyond github
 
-<em>✏️ Say this in your own words.</em>
+<em>CEH v13 certified, plus the Deloitte Australia and Tata cybersecurity job simulations.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Completed EdiGlobe's cybersecurity internship program: attack vectors, firewalls, IDS/IPS, secure network architecture, and vulnerability-assessment reports.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Background in robotics, now focused on cybersecurity, AI, and AI-assisted development.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>First Year Representative for the CSI KJSCE Student's Chapter, October 2025 to May 2026.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Wrote a paper for the ThinkSprint competition on corporate data storage, arguing that data is a liability rather than an asset.</em>
 
-<em>✏️ Say this in your own words.</em>
+<em>Next up: CPENT, CompTIA Security+, and bug bounty hunting on HackerOne and Bugcrowd.</em>
 
 <div align="center">
 
-<a href="https://heyyappa.com">
-<img src="https://img.shields.io/badge/YAPPA-07050C?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/kalpit-tailor">
+<img src="https://img.shields.io/badge/LINKEDIN-07050C?style=for-the-badge" />
 </a>
-<a href="https://junohauz.xyz">
-<img src="https://img.shields.io/badge/JUNOHAUZ-A66CCD?style=for-the-badge" />
+<a href="https://github.com/rawrkey/LeetCode">
+<img src="https://img.shields.io/badge/LEETCODE-A66CCD?style=for-the-badge" />
 </a>
-<a href="https://luma.com/user/mews">
-<img src="https://img.shields.io/badge/EVENTS-C59BFF?style=for-the-badge" />
+<a href="https://killjoy-three.vercel.app/">
+<img src="https://img.shields.io/badge/KILLJOY-C59BFF?style=for-the-badge" />
 </a>
 
 </div>
@@ -252,8 +234,8 @@ No terminal required.
 
 ## 07. let's make something useful
 
-<em>✏️ Say this in your own words.</em>
-<em>✏️ Say this in your own words.</em>
+<em>Open to software engineering and cybersecurity internships.</em>
+<em>Best reached at kalpit2007.tailor@gmail.com or on LinkedIn.</em>
 
 <br/>
 
@@ -261,13 +243,13 @@ No terminal required.
 
 <br/>
 
-<a href="https://github.com/rawrkey">GitHub</a> · <a href="https://x.com/your-handle">X</a>
+<a href="https://github.com/rawrkey">GitHub</a> · <a href="https://www.linkedin.com/in/kalpit-tailor">LinkedIn</a>
 
 <br/><br/>
 
-<em>✏️ Say this in your own words.</em>
+<em>Based in Mumbai, India.</em>
 
-<sub><em>✏️ Say this in your own words.</em> <!----> </sub>
+<sub><em>Building, securing, experimenting.</em> <!----> </sub>
 
 <br/><br/>
 
