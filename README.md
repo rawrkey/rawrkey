@@ -36,7 +36,7 @@ const kalpit = {
     "Software Development",
     "Bug Bounty"
   ],
-  languages: ["C", "Java", "C++", "Python", "HTML", "CSS", "JavaScript"],
+  languages: ["C", "C++", "Java", "Python"],
   philosophy: "Building, securing, and experimenting with technology."
 };
 ```
@@ -55,7 +55,7 @@ const kalpit = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,git&perline=8&theme=dark" alt="Development tools" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,py&perline=8&theme=dark" alt="Development tools" />
 
 <br/><br/>
 
@@ -63,14 +63,11 @@ const kalpit = {
 <img src="https://img.shields.io/badge/C++-A66CCD?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
 <img src="https://img.shields.io/badge/Java-C59BFF?style=flat-square&logo=openjdk&logoColor=07050C" alt="Java" />
 <img src="https://img.shields.io/badge/Python-07050C?style=flat-square&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/HTML-A66CCD?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-<img src="https://img.shields.io/badge/CSS-C59BFF?style=flat-square&logo=css&logoColor=07050C" alt="CSS" />
-<img src="https://img.shields.io/badge/JavaScript-07050C?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
 <img src="https://img.shields.io/badge/Kali_Linux-A66CCD?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
 
 <br/><br/>
 
-<em>C, Java, C++, Python, HTML, CSS, and JavaScript, with Python for security tooling and Kali Linux for lab testing.</em>
+<em>C, C++, Java, and Python, with Python for security tooling and Kali Linux for lab testing.</em>
 
 </div>
 
@@ -256,5 +253,3 @@ A Kill Agent attacks every trade proposal, and a risk engine holds the final vet
 <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:07050C,50:3D0F3F,100:C59BFF" width="100%" alt="Footer" />
 
 </div>
-
-<p align="center"><sub>Kalpit Tailor · <a href="https://www.gitskins.com/readme-generator?template=community-not-your-average-readme-40hi">Not Your Average README</a> template by <a href="https://www.gitskins.com/creators/baddiecodes">@baddiecodes</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
