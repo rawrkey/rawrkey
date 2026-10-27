@@ -166,38 +166,7 @@ A Kill Agent attacks every trade proposal, and a risk engine holds the final vet
 
 ---
 
-## 05. github activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=rawrkey&show_icons=true&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F&icon_color=743C91&ring_color=A66CCD" />
-  <img src="https://github-readme-stats.vercel.app/api?username=rawrkey&show_icons=true&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF&icon_color=C59BFF&ring_color=A66CCD" width="49%" alt="rawrkey GitHub statistics" />
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=rawrkey&layout=compact&hide_border=true&bg_color=FFF8EF&title_color=743C91&text_color=3D0F3F" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawrkey&layout=compact&hide_border=true&bg_color=07050C&title_color=C59BFF&text_color=E8D7FF" width="49%" alt="Most used languages" />
-</picture>
-
-<br/><br/>
-
-<h3>CONTRIBUTION TRAIL</h3>
-
-<!---->
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=rawrkey&theme=default&hide_border=true&background=FFF8EF&ring=743C91&fire=A66CCD&currStreakLabel=743C91&sideLabels=3D0F3F&dates=743C91" />
-  <img src="https://streak-stats.demolab.com?user=rawrkey&theme=dark&hide_border=true&background=07050C&ring=C59BFF&fire=A66CCD&currStreakLabel=C59BFF&sideLabels=E8D7FF&dates=B89AD8" width="75%" alt="GitHub contribution streak" />
-</picture>
-
-</div>
-
----
-
-## 06. beyond github
+## 05. beyond github
 
 <em>CEH v13 certified, plus the Deloitte Australia and Tata cybersecurity job simulations.</em>
 
@@ -229,7 +198,7 @@ A Kill Agent attacks every trade proposal, and a risk engine holds the final vet
 
 <div align="center">
 
-## 07. let's make something useful
+## 06. let's make something useful
 
 <em>Open to software engineering and cybersecurity internships.</em>
 <em>Best reached at kalpit2007.tailor@gmail.com or on LinkedIn.</em>
